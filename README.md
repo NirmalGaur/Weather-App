@@ -1,2 +1,3 @@
-# Note-taking-app:
-Allows the User to add a note (tells if the note is already present), Delete a specific note (tells if the note requested does'nt exists), List the notes, and Read a particular note. 
+# Weather-app:
+Provides the co-ordinates and temperature details of any location provided by the user through command line argument. <br>
+CLA input format: node app.js "bangalore"
